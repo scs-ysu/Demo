@@ -6,7 +6,7 @@ pageextension 50100 "CustomerListExt" extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('This is Master Branch');
+        Message('This is Task2 Branch');
         Message('Hello git!');
         Message('Branch Task1 added');
     end;
