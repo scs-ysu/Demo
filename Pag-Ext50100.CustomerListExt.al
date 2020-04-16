@@ -8,5 +8,6 @@ pageextension 50100 "CustomerListExt" extends "Customer List"
     begin
         Message('This is Test Branch');
         Message('Hello git!');
+        Message('Branch Task1 added');
     end;
 }
