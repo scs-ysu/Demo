@@ -4,6 +4,6 @@ pageextension 50101 "CustomerCardExt" extends "Customer Card"
     begin
         Message('This is Test Branch');
         Message('Hello git!');
-        Message('Branch Task1 added');
+        Message('Branch Task1  added');
     end;
 }
