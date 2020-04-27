@@ -1,3 +1,7 @@
 {
-    "al.defaultLaunchConfigurationName": "Your own server"
+    "al.defaultLaunchConfigurationName": "Your own server",
+    "CRS.ObjectNameSuffix": "YSU",
+    "CRS.FileNamePattern": "<ObjectNameShort>.YSU.<ObjectTypeShort>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShort>Ext.al"
+    //"CRS.FileNamePatternExtensions": "<ObjectTypeShort><BaseId>-Ext<ObjectId>.<ObjectNameShort>.al"
 }
